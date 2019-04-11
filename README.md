@@ -1,2 +1,2 @@
-# 100Day-ML-Marathon
+# 2nd-ML100Days
 2019/4/16-
