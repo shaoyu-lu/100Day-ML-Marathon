@@ -1,3 +1,11 @@
 
 homework/.ipynb_checkpoints/Day_001_HW-checkpoint.ipynb
 homework/.ipynb_checkpoints/Day_001_example_of_metrics-checkpoint.ipynb
+*.csv
+homework/data/example.jpg
+homework/data/example.mat
+homework/data/example.npy
+homework/data/example.pkl
+homework/data/example.txt
+*.json
+homework/.ipynb_checkpoints/Day_002_HW-checkpoint.ipynb
